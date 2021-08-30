@@ -28,6 +28,3 @@ or for starting/stopping Pn from receiving messages by running:
 To end the execution of the network the user can type CTRL+C
 
 For more information, please refer to the report.
-
-## Authors
-* Steven Palma Morera: imstevenpm.study@gmail.com

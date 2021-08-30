@@ -1,4 +1,4 @@
-# Advanced Robot Programming Projects
+# Operating System Programming Projects
 
 Projects were developed back in 2019/2020.
 

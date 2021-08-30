@@ -1,0 +1,9 @@
+Dear all,
+
+As Real-Time assignment please consider the following task:
+
+- Start from the exercise "Rate Monotonic - Periodic Tasks SolutionFile"
+
+- Modify the file in order to use the scheduling policy SCHED_DEADLINE to schedule periodic tasks with EDF (no aperiodic tasks should be considered).
+
+Please, check for instructions on how to use SCHED_DEADLINE on the web by yourself (you should now be able to do that!).
